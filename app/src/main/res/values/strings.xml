@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Random Restaurant Chooser</string>
+    <string name="title_activity_add_restaurant">Add a restaurant</string>
+</resources>
